@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h1> Hi, I'm TheRock.
 <!-- <img src="https://user-images.githubusercontent.com/559c1994a9f7.png" height="180"> -->
 </h1>
-![Static Badge](https://img.shields.io/badge/I_am_TheRock-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/TheRock_=>_Science_+_Art_=_MY_Philosophy-8A2BE2)
 <p>
   <em>
     <h3>
