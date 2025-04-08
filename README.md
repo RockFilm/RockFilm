@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="Therock.png" width="600"/>
+<img align="right" src="Therock.png" width="500"/>
 
 <h1> Hi, I'm TheRock.
 <!-- <img src="Therock.png" height="180"> -->
