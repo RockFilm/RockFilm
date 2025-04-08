@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://user-images.githubusercontent.com/.svg" width="300"/>
+<img align="right" src="제목 없는 디자인 (1).png" width="300"/>
 
 <h1> Hi, I'm TheRock.
 <!-- <img src="https://user-images.githubusercontent.com/559c1994a9f7.png" height="180"> -->
