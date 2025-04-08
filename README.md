@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://user-images.githubusercontent.com/.svg" width="300"/>
 
-<h1> Hi, I'm TheRock <img src="https://user-images.githubusercontent.com/559c1994a9f7.png" height="180"></h1>
+<h1> Hi, I'm TheRock! [Static Badge](https://img.shields.io/badge/I_am_TheRock-8A2BE2)
+<!-- <img src="https://user-images.githubusercontent.com/559c1994a9f7.png" height="180"> -->
+</h1>
 
 <p>
   <em>
