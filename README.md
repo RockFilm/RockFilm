@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="제목 없는 디자인 (1).png" width="300"/>
+<img align="right" src="Therock.png" width="600"/>
 
 <h1> Hi, I'm TheRock.
-<!-- <img src="https://user-images.githubusercontent.com/559c1994a9f7.png" height="180"> -->
+<!-- <img src="Therock.png" height="180"> -->
 </h1>
 
 ![Static Badge](https://img.shields.io/badge/TheRock_=>_Science_+_Art_=_MY_Philosophy-8A2BE2)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <h3>
     Content Creator at
       <a href="https://www.youtube.com/">
-        Film by TheRock <img src="https://235664556f34.png" height="30px" />
+        Film by TheRock <img src="Therock.png" height="30px" />
       </a>
     </h3>
   </em>
