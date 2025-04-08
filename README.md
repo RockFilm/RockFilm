@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <br/>
-
+<!-- 
 <h2>My popular videos</h2>
 <table>
   <tbody>
@@ -75,3 +75,4 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 <b><em><a href="https://www.youtube.com/">More videos...</a></em></b>
+-->
