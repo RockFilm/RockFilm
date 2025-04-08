@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     Instructor at 
     <a href="https://블라.com/">
       RockFilm
-      <img src="Therock2.png" height="30px"/>
+      <img src="therock2.png" height="30px"/>
     </a>
   </h3>
     </em>
